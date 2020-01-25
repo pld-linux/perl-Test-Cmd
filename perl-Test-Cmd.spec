@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	Cmd
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Cmd - Perl module for portable testing of commands and scripts
 #Summary(pl.UTF-8):	
 Name:		perl-Test-Cmd
