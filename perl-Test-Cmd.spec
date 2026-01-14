@@ -8,7 +8,7 @@ Summary:	Test::Cmd - Perl module for portable testing of commands and scripts
 #Summary(pl.UTF-8):	
 Name:		perl-Test-Cmd
 Version:	1.05
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
