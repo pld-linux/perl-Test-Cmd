@@ -7,13 +7,13 @@
 Summary:	Test::Cmd - Perl module for portable testing of commands and scripts
 #Summary(pl.UTF-8):	
 Name:		perl-Test-Cmd
-Version:	1.05
-Release:	2
+Version:	1.09
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	462ed981f09e02a5d9bdfb309425ede0
+Source0:	https://www.cpan.org/authors/id/N/NE/NEILB/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	a834eb31438d2c58ade6884743963f08
 URL:		http://www.baldmt.com/Test-Cmd/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
